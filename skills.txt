@@ -2,6 +2,11 @@ Java
 Python
 SQL
 JavaScript
+HTML
+CSS
 Git
 Maven
+React
+Angular
+
 
